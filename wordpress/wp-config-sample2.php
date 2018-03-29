@@ -1,7 +1,6 @@
 <?php
 /** Riko test GIT
-*** NOVA vrstica
-*** NOVA vrstica2
+*** NOVA vrstica2 *** prejšnja je pobrisana
 *** Riko dodal
  * The base configuration for WordPress
  *
