@@ -2,6 +2,7 @@
 /** Riko test GIT
 *** NOVA vrstica
 *** NOVA vrstica2
+*** Riko dodal
  * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the
