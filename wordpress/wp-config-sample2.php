@@ -4,11 +4,7 @@
 *** Riko dodal
 *** Jernej dodano s prenosnika
 
-<<<<<<< HEAD
 ***Dodano s stacionarca
-=======
-***Dodano s prenosnika 2
->>>>>>> 7063f50152da03694dc202269a251d8f190654c3
 
  * The base configuration for WordPress
  *
